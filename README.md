@@ -20,6 +20,7 @@
       <img align="center" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
       <img align="center" height="50" width="45" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
       <img align="center" height="50" width="45" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
+      <img align="center" height="50" width="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
       
       
   
